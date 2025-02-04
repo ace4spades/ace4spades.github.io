@@ -12,6 +12,6 @@ Space Clicker was a task assigned for students to become more familiar with the 
 
 2. Youtube comment section
 
-![Image from the localhost site](URL or file path)
+![Image from the localhost site](/image_2025-02-04_115210944.png)
 
 The youtube clone was a task assigned for students to become more familiar with using HTML, CSS and PHP to create a functional youtube comment section. The comments were made functional due to the mySQL database. Information was sent via a form to the database, such as the name, email address and the comment itself. The information was then pulled from this database and displayed under the video. 
